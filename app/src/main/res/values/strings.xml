@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyApp05</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_title5">Twitterでユーザー認証をしたい</string>
+    <string name="app_title6">Twitterでタイムラインを取得したい</string>
+    <string name="twitter_consumer_key"></string>
+    <string name="twitter_consumer_secret"></string>
+    <string name="twitter_callback_url_scheme"></string>
+    <string name="twitter_callback_url_host">twitter.com</string>
+
+    <string name="label_login">ログイン</string>
+    <string name="label_logout">ログアウト</string>
+    <string name="label_input">メッセージを入力</string>
+    <string name="label_post">投稿</string>
+    <string name="label_get_timeline">タイムラインを取得</string>
+    <string name="label_clear_auth">認証情報を削除</string>
+
+</resources>
+
